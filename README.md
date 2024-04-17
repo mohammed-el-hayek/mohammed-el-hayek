@@ -10,6 +10,8 @@
 <a href="https://www.w3schools.com/css/" rel="nofollow" class="L-Affiliate-Tagged">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width: 100%;">
 </a>
+<a href="https://www.w3schools.com/cpp/default.asp" rel="nofollow" class="L-Affiliate-Tagged">
+  <img src="./images/C++.png" alt="C++" width="40" height="40" style="max-width: 100%;">
 <h2 align="center">Tools I use</h2>
 <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/" rel="nofollow" class="L-Affiliate-Tagged">
   <img src="./images/Chrome.png" alt="Chrome OS" width="40" height="40" style="max-width: 100%;">
